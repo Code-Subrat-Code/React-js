@@ -1,10 +1,15 @@
-
+import Chai from "./chai"
 
 function App() {
   
 
   return (
-    <h1>Subrat kumar sahoo with Vit</h1>
+    //<.>...</> this is known as fragmentation.
+    <> 
+    <Chai/>
+    <h1>chai is garam</h1>
+    <p>Is chai is good for health</p>
+    </>
   )
 }
 
